@@ -1,0 +1,28 @@
+table {
+    width: 100%;
+  }
+  
+  .mat-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+  
+  td, th {
+    width: 25%;
+  }
+
+  .item{
+    margin: 5px;
+    padding: 5px;
+}
+
+#input{
+  border: 1px solid grey;
+}
+.container{
+  display: flex;
+  justify-content: space-between;
+}
+.flxItem{
+padding-top: 10px;
+}
